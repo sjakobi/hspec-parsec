@@ -1,5 +1,5 @@
 name:                hspec-parsec
-version:             0.1.0.0
+version:             0
 synopsis:            Hspec expectations for testing Parsec parsers
 homepage:            https://github.com/sjakobi/hspec-parsec#readme
 bug-reports:         https://github.com/sjakobi/hspec-parsec/issues
@@ -8,7 +8,7 @@ license-file:        LICENSE
 author:              Simon Jakobi, Mark Karpov
 maintainer:          simon.jakobi@gmail.com
 copyright:           Copyright (c) 2019 Simon Jakobi
-category:            Web
+category:            Testing, Parsing
 build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
