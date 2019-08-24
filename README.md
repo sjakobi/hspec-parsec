@@ -62,6 +62,11 @@ Finished in 0.0001 seconds
 hspec-parsec> Test suite spec passed
 ```
 
+## Development status and contributing
+
+This package is currently very limited. If you need more functionality or want to
+contribute in some other way, you're welcome to open an issue or make a PR! :)
+
 ## Thanks
 
 … to [Mark Karpov](https://github.com/mrkkrp), whose package
